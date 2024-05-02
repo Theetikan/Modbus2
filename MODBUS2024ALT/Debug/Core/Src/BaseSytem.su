@@ -1,0 +1,10 @@
+../Core/Src/BaseSytem.c:13:6:Heartbeat	24	static
+../Core/Src/BaseSytem.c:25:6:Routine	24	static
+../Core/Src/BaseSytem.c:51:6:VacuumOn_Off	4	static
+../Core/Src/BaseSytem.c:60:6:Gripper_Movement	4	static
+../Core/Src/BaseSytem.c:69:6:Set_Shelves	4	static
+../Core/Src/BaseSytem.c:95:6:GetGoalPoint	4	static
+../Core/Src/BaseSytem.c:102:6:RunPointMode	4	static
+../Core/Src/BaseSytem.c:120:6:SetHome	4	static
+../Core/Src/BaseSytem.c:139:6:GetPick_PlaceOrder	4	static
+../Core/Src/BaseSytem.c:147:6:RunJogMode	4	static
